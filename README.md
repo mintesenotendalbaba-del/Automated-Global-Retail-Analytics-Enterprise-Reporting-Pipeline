@@ -37,13 +37,3 @@ I built a Python automation system that acts like a hands-free conveyor belt. It
    `bash
    python Automation_Pipeline.py
 
-## 📂 Project Structure
-`text
-├── Data_Dictionary.csv         # Structural definitions for relational mapping
-├── Exchange_Rates.csv          # Global conversion metrics
-├── Sales.csv                   # Core multi-currency transactions
-├── Products.csv                # Inventory parameters and unit costs
-├── Stores.csv                  # Global retail storefront locations
-├── Customers.csv               # Client demographic logs
-├── Automation_Pipeline.py      # The core Python orchestration script
-└── README.md                   # System documentation
